@@ -1,0 +1,5 @@
+com\careerlens\api\ApiController$AnalyzeRequest.class
+com\careerlens\api\ApiController$AuthRequest.class
+com\careerlens\api\ApiController.class
+com\careerlens\api\CareerLensApplication.class
+com\careerlens\api\SecurityConfig.class
